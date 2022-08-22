@@ -1,23 +1,3 @@
-
-  /* .container{
-    height: 80%;
-    width: 100%;
-    background-color: #333;
-    color: white;
-    text-align: center;
-    margin: 1px;
-  } */
-  .col-left {
-    width: 50%;
-    height: 50%;
-    background-color: #617fbd;
-  }
-  .col-right {
-    width: 50%;
-    height: 50%;
-    background-color: #da9987;
-  }
-  .footer {
-    width: auto;
-    background-color: #617fbd;
-  }
+.container-fluid {
+    height: ;
+}
